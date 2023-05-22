@@ -25,6 +25,18 @@
     background-color: yellow;
 }
 
+table{
+    text-align: left;
+}
+
+.bg-blue{
+    background-color: rgba(32,169,229,255);
+}
+
+.bg-celeste{
+    background-color: rgba(177,229,242,255);
+}
+
 .bg{
     height: 220px;
     background-repeat: no-repeat;
