@@ -1,0 +1,9 @@
+body{
+    /* inserire il font */
+}
+
+#testa{
+    height: 180px;
+    background-color: rgba(78,160,255,255);
+    background-image: url("../imgs/pattern.png");
+}
