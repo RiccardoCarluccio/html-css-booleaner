@@ -14,12 +14,20 @@ h1{
     margin-bottom: 0;
 }
 
+td{
+    height: 45px;
+}
+
 #margin1{
     margin-top: 20px;
 }
 
 #margin2{
     line-height: 5px;
+}
+
+.bold{
+    font-weight: bold;
 }
 
 .grey{
