@@ -11,6 +11,7 @@
 }
 
 h1{
+    margin-top: 10px;
     margin-bottom: 0;
 }
 
@@ -62,6 +63,7 @@ table{
     height: 220px;
     width: 270px;
     background-repeat: no-repeat;
+    font-size: 20px;
 }
 
 .primo-foot{
