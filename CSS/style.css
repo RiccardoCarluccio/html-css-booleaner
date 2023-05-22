@@ -7,3 +7,16 @@ body{
     background-color: rgba(78,160,255,255);
     background-image: url("../imgs/pattern.png");
 }
+
+#logo{
+    width: 250px;
+    /* cambiare posizione. Perchè allineata con il testo? */
+}
+
+.grey{
+    color: rgba(138,138,138,255);
+}
+
+.azure{
+    color: rgba(35,170,228,255);
+}
