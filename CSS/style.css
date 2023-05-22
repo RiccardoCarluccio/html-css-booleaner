@@ -17,6 +17,14 @@
     color: rgba(35,170,228,255);
 }
 
+.white{
+    color: white;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
 .bg{
     height: 220px;
     background-repeat: no-repeat;
