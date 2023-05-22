@@ -1,7 +1,3 @@
-body{
-    /* inserire il font */
-}
-
 #testa{
     height: 180px;
     background-color: rgba(78,160,255,255);
@@ -19,4 +15,17 @@ body{
 
 .azure{
     color: rgba(35,170,228,255);
+}
+
+.bg{
+    height: 220px;
+    background-repeat: no-repeat;
+}
+
+.primo-foot{
+    background-image: url("../imgs/monitor.jpg");
+}
+
+.secondo-foot{
+    background-image: url("../imgs/graph.jpg");
 }
