@@ -6,7 +6,8 @@
 
 #logo{
     width: 250px;
-    /* cambiare posizione. Perchè allineata con il testo? */
+    margin-top: 100px;
+    margin-left: 20px;
 }
 
 .grey{
